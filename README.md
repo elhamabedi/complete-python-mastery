@@ -22,5 +22,5 @@ One repo. Everything you need to become a confident Python developer.
 
 This project is licensed under the **MIT License** – you are free to use, modify, and distribute this code for personal or educational purposes. The only requirement is to retain the original copyright notice.
 
-**Created with ❤️ by Elham Abedi**  
-*For my Python students – keep coding!*
+**Created with ❤️ by Elham**  
+*For Python students – keep coding!*
